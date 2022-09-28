@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/renanpilotti/to-do-list-react/static/css/main.62e085bd.css",
+    "main.js": "/renanpilotti/to-do-list-react/static/js/main.0dfbabfd.js",
+    "static/js/787.63e47474.chunk.js": "/renanpilotti/to-do-list-react/static/js/787.63e47474.chunk.js",
+    "index.html": "/renanpilotti/to-do-list-react/index.html",
+    "main.62e085bd.css.map": "/renanpilotti/to-do-list-react/static/css/main.62e085bd.css.map",
+    "main.0dfbabfd.js.map": "/renanpilotti/to-do-list-react/static/js/main.0dfbabfd.js.map",
+    "787.63e47474.chunk.js.map": "/renanpilotti/to-do-list-react/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62e085bd.css",
+    "static/js/main.0dfbabfd.js"
+  ]
+}
